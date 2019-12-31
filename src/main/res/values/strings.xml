@@ -1,0 +1,11 @@
+<!--
+  ~ Copyright (c) 2019.
+  ~ This file is subject to the terms and conditions defined in file 'LICENSE.md', which is part of this source code package.
+  -->
+
+<resources>
+    <string name="app_name">TrueOrFalse</string>
+    <string name="main_button_questions">ver preguntas</string>
+    <string name="main_button_play">Jugar</string>
+    <string name="main_image_content_description">logo image</string>
+</resources>
