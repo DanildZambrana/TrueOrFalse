@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?><!--
-  ~ Copyright (c) 2019.
+  ~ Copyright (c) 2020.
   ~ This file is subject to the terms and conditions defined in file 'LICENSE.md', which is part of this source code package.
   -->
 
@@ -41,6 +41,7 @@
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:onClick="openQuestionsActivity"
         android:text="@string/main_button_questions"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"

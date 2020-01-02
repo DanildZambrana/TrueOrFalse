@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><!--
-  ~ Copyright (c) 2019.
+  ~ Copyright (c) 2020.
   ~ This file is subject to the terms and conditions defined in file 'LICENSE.md', which is part of this source code package.
   -->
 
+<!--https://material.io/resources/color/#!/?view.left=0&view.right=0&secondary.color=00BCD4&primary.color=8BC34A-->
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#8bc34a</color>
+    <color name="colorPrimaryDark">#5a9216</color>
+    <color name="colorAccent">#00bcd4</color>
 </resources>
